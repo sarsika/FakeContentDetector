@@ -1,0 +1,4 @@
+kyc update
+bank freeze
+fraud alert
+account closure
